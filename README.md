@@ -1,3 +1,4 @@
 # clone
 fg
 hi
+bye
